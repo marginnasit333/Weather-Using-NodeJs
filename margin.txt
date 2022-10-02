@@ -1,0 +1,7 @@
+https://api.openweathermap.org/data/2.5/weather?q={city name}&appid={API key}
+
+
+7a31b8a095fc416cd287ae6377e228ee
+
+
+https://api.openweathermap.org/data/2.5/weather?q=anand&appid=7a31b8a095fc416cd287ae6377e228ee
